@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pedro Alvarez Cabral",
+      "email": "pdac@brasil.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Janeiro Fevereiro de Março Abril",
+      "email": "jfma@calend.com.br"
+    },
+    {
+      "name": "teste teste",
+      "email": "teste@teste.com",
+      "id": 3
+    }
+  ]
+}
